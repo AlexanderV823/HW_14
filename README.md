@@ -3,3 +3,4 @@
 ## [Механизмы и инструменты автоматизированного тестирования](https://github.com/netology-code/onec-mid-homeworks/blob/main/TAT/homework-14-1.md)
 ### **01.10.2024** 
 - Initial commit: добавлен файл README.md, добавлены файлы с решениями задач 1-3
+- добавлен файл с решением задачи 4
